@@ -1,16 +1,8 @@
 This is a README file for the CSCI2270 project.
 MAKE SURE TO PULL BEFORE EDITING THE CODE!!!
 
-****Important****
-LINK
-If you forget, the link is, https://github.com/Thecompletion200/miniGitPrj.git
-
 HOW TO PULL
-To my knowledge there are two ways to pull
-    - BEST WAY TO PULL
-        - git pull origin master
-    - Another way to pull
-        - git pull origin master
+		- git pull origin master
 HOW TO PUSH TO BRANCHES
 To commit to the master
     - git push -u origin master
